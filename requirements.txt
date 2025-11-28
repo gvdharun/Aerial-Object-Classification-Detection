@@ -1,0 +1,11 @@
+streamlit==1.39.0
+tensorflow==2.15.0
+
+numpy
+pillow
+matplotlib
+scikit-learn
+
+# optional but useful during experimentation
+pandas
+seaborn
